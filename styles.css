@@ -78,3 +78,8 @@ p {
 p {
   font-size: 15px;
 }
+
+button {
+  color:  #0d47a1;
+margin-bottom: 2px;
+}
